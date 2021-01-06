@@ -33,7 +33,7 @@
   },
   "devDependencies": {
     "@material-ui/core": "^4.9.11",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "chart.js": "^2.9.3",
     "classnames": "^2.2.6",
     "react-chartjs-2": "^2.9.0",
