@@ -34,7 +34,7 @@
   "devDependencies": {
     "@material-ui/core": "^4.9.11",
     "axios": "^0.19.2",
-    "chart.js": "^2.9.3",
+    "chart.js": "^2.9.4",
     "classnames": "^2.2.6",
     "react-chartjs-2": "^2.9.0",
     "react-countup": "^4.3.3"
